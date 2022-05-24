@@ -16,9 +16,9 @@ function draw() {
         rect(50, 100, 150, 2);
     if (choice == 2)
         rect(50, 100, 150, 2);
-    text("choice 1", 50, 50);
-    text("choice 2", 50, 100);
-    text("choice 3", 50, 150);
+    text("中餐吃泡麵", 50, 50);
+    text("中餐Uber Eat", 50, 100);
+    text("中餐Food Panda", 50, 150);
 }
 
 function mousePressed() {
